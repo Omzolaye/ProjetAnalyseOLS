@@ -1,6 +1,6 @@
 # Projet 1 : Analyse des journaux d'un pare-feu
 
-**Auteur :** NOM Prénom
+**Auteur :** OMAR LAYE SOW
 
 Analyse d'une semaine de connexions enregistrées par un pare-feu (PC, serveurs, objets connectés) afin de détecter des comportements suspects.
 
